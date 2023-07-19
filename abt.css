@@ -1,0 +1,21 @@
+body{
+  border: 3px #ffbd59;
+}
+.siz{
+  background-image: url(image/form5.PNG);
+
+    border-top: 2rem;
+  width: 200vh;
+  height: 80vh;
+  margin-top: 16rem;
+  margin-left: 3rem;
+  margin-bottom: 2rem;
+}
+.si{
+    background-image: url(image/form 4.PNG);
+  width: 200vh;
+  height: 80vh;
+  margin-top: 16rem;
+  margin-left: 3rem;
+  margin-bottom: 2rem;
+}

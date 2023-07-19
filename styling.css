@@ -1,0 +1,59 @@
+body{
+   padding-left: 22rem;
+   padding-top: 4rem;
+   background-color: #EAEAE8;
+}
+.context{
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  color: #ffbd59;
+  font-size: 25px;
+  padding-bottom: 3px;
+}
+.context input{
+  height: 19px;
+  width: 29rem;
+  border: 2px solid #black;
+}
+div.bodyofform form{
+  margin: 0 auto;
+   padding: 40px;
+   width:500px;
+   background-color: #212F3D;
+   height:355px;
+   border: 2px solid #ffbd59;
+    margin-left: 15rem;
+}
+.col-md-3{
+  margin-top: 1px;
+  padding-left:242px;
+  padding-bottom: 2px;
+}
+.col-md-3 button{
+  padding: 1rem 15rem 1rem 15rem;
+  background-color: #ffbd59;
+  border: 2px solid #212F3D;
+
+}
+.col-md-3 a{
+  color:white;
+  font-size: 18px;
+}
+.col-md-3 button:hover{
+   background-color: #ffbd59;
+}
+.col-md-3 a:hover{
+    color:black;
+}
+.btn{
+  background-color: red;
+  border-color: #ffbd59;
+  color: white;
+  box-shadow: 5px 5px #EAEAE8;
+  -webkit-box-shadow: 3px 5px 3px#ccc;
+   -moz-box-shadow: 3px 5px 3px#ccc;
+    box-shadow:  3px 5px 3px#ccc;
+}
+.btn button:hover{
+color: #ffbd59;
+}

@@ -1,0 +1,61 @@
+body{
+  background-image: url(im/manufacturing-inventory.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  border: 3px solid #ffbd59;
+  padding: 130px ;
+  border-radius: 0rem;
+}
+
+div.ims{
+
+  padding-left: 30rem;
+  font-size: 50px;
+  color:#ffbd59;
+}
+.inventory{
+    padding-top: 0.1rem;
+  padding-left: 6rem;
+  padding-right: 8rem;
+  font-size: 3rem;
+  color: #F9F9EB;
+  padding-bottom: 1rem;
+}
+div.bodyoform form{
+ margin: 0 auto;
+  padding: 50px;
+  width:500px;
+  background-color: black;
+  height:120px;
+  border: 2px solid #ffbd59;
+  height: 200px;
+   margin-left: 15rem;
+}
+.context{
+  font-size: 30px;
+  color:#ffbd59;
+  padding-left: 2rem;
+  margin-top: 3px;
+  margin-bottom:0.1rem;
+}
+.context input{
+  height: 25px;
+  width: 27rem;
+  border: 2px solid #ffbd59;
+}
+button{
+  font-size: 25px;
+  color: #fff;
+  border: none;
+  background-color: #ffbd59;
+  margin-top: 15px;
+  margin-left: 200px;
+  padding: 3px;
+}
+.btncolor a{
+  color: #F9F9EB;
+}
+btncolor input{
+  color:#ffbd59;
+}
